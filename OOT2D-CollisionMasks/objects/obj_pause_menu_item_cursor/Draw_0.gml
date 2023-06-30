@@ -1,0 +1,1 @@
+draw_self();//if (should_draw == true){draw_sprite(spr_menu_cursor, 0, scr_viewport_wrapper(struct_view.XView, 0)+x, scr_viewport_wrapper(struct_view.YView, 0)+y);}

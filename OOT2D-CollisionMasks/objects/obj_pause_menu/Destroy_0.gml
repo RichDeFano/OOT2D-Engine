@@ -1,0 +1,1 @@
+global.last_pause_screen = current_state;

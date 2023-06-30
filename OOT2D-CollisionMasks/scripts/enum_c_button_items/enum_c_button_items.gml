@@ -1,0 +1,48 @@
+// Script assets have changed for v2.3.0 see
+// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+function enum_c_button_items(){
+	enum struct_c_button_items
+	{
+		deku_stick,
+		deku_nut,
+		bombs,
+		bow_and_arrow,
+		fire_arrow,
+		dins_fire,
+		fairy_slingshot,
+		sarias_ocarina,
+		ocarina_of_time,
+		bombchu,
+		hookshot,
+		longshot,
+		ice_arrow,
+		farores_wind,
+		boomerang,
+		eye_of_truth,
+		magic_beans,
+		megaton_hammer,
+		light_arrow,
+		nayrus_love,
+		fire_bow,
+		ice_bow,
+		light_bow,
+		bottle_1,
+		bottle_2,
+		bottle_3,
+		bottle_4,
+		bottle_empty,
+		bottle_red_potion,
+		bottle_green_potion,
+		bottle_blue_potion,
+		bottle_lon_lon_milk,
+		bottle_half_lon_lon_milk,
+		bottle_fairy,
+		bottle_bugs,
+		bottle_fish,
+		bottle_poe_spirit,
+		bottle_big_poe_spirit,
+		bottle_blue_fire,
+		bottle_ruto_letter,
+		null
+	}
+}

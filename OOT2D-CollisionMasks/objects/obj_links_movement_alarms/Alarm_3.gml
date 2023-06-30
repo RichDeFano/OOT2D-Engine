@@ -1,0 +1,11 @@
+/// @description Jumping
+obj_Link.jumping = false;
+obj_Link.jumping_up = false;
+obj_Link.jumping_down = false;
+obj_Link.jumping_left = false;
+obj_Link.jumping_right = false;
+obj_Link.current_state = link_state_machine.standing;
+obj_Link.can_jump_down = false;
+obj_Link.can_jump_up = false;
+obj_Link.can_jump_right = false;
+obj_Link.can_jump_left = false;

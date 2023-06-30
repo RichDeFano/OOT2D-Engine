@@ -1,0 +1,1 @@
+scr_link_animation_end();
